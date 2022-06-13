@@ -1,0 +1,14 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss style/style.css -w"
+  },
+  "author": "Tuyen Nguyen",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
